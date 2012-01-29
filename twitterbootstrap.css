@@ -1,11 +1,23 @@
-.red_background{
+.body{
 background:red;
 }
 
-.nav{
-float:right;
+.nuke{
+background:black;
+color:white;
 }
 
-.h1{
-font-size:144px;
+.h3{
+color:white;
+}
+
+.main{
+background:white;
+color:black;
+}
+
+body
+{
+background-image:url('gradient2.png');
+background-repeat:repeat-x;
 }
