@@ -3,11 +3,11 @@ background:red;
 }
 
 .nuke{
-background:black;
+background-image:url('cross.png');
 color:white;
 }
 
-.h3{
+.whiteheader{
 color:white;
 }
 
