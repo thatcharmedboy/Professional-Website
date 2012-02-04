@@ -3,7 +3,7 @@ background:red;
 }
 
 .nuke{
-background-image:url('cross.png');
+background-image:url('bg2.png');
 color:white;
 }
 
@@ -12,8 +12,9 @@ color:white;
 }
 
 .main{
-background:white;
+background-image:url('bg1.png');
 color:black;
+padding:10px;
 }
 
 body
